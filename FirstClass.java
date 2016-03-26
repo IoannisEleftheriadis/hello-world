@@ -5,6 +5,10 @@ public class FirstClass
     	System.out.println("First JAVA code on GitHub!!");
 	System.out.println("Director: Ioannis Eleftheriadis");
   }
+   /**
+	  * A simple function that calculates fibonacci numbers with loop approach.
+	  * @param input The input value for calculation of fibonacci number.
+	  * @return The fibonacci number*/
   public static long fibonacci(long input)
   {
 	long N_1 = 1; // The previous parameter
